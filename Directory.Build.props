@@ -1,0 +1,14 @@
+<Project>
+  <ItemGroup>
+    <PackageReference Include="Rhodium.Generators"
+                      Version="0.1.0"
+                      OutputItemType="Analyzer"
+                      ReferenceOutputAssembly="false"
+                      PrivateAssets="all" />
+    <PackageReference Include="Rhodium.Analyzers"
+                      Version="0.1.0"
+                      OutputItemType="Analyzer"
+                      ReferenceOutputAssembly="false"
+                      PrivateAssets="all" />
+  </ItemGroup>
+</Project>

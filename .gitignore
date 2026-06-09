@@ -1,0 +1,6 @@
+node_modules/
+.site-cache/
+.site-dist/
+.vitepress/.temp/
+.DS_Store
+*.log

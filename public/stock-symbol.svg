@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rhodium stock symbol">
+  <rect width="64" height="64" rx="14" fill="#166534"/>
+  <path d="M13 43h8l7-18 8 25 8-20h7" fill="none" stroke="#dfece2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" fill="#ffffff">$RH</text>
+</svg>
