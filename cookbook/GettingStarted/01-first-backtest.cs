@@ -1,4 +1,4 @@
-#:package Rhodium.Simulation@0.1.0
+#:package Rhodium.Simulation@0.5.0
 #:property TargetFramework=net10.0
 
 // This sample runs the smallest useful Rhodium backtest from in-memory bar data.

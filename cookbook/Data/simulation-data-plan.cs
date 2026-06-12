@@ -1,4 +1,4 @@
-#:package Rhodium.Simulation@0.1.0
+#:package Rhodium.Simulation@0.5.0
 #:property TargetFramework=net10.0
 
 // This sample builds a deterministic simulation data plan from named event sources.

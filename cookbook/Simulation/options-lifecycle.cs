@@ -1,4 +1,4 @@
-#:package Rhodium.Simulation@0.1.0
+#:package Rhodium.Simulation@0.5.0
 #:property TargetFramework=net10.0
 // This sample shows supported option lifecycle simulation: fill, expiry, cash settlement, and blocked expiry.
 

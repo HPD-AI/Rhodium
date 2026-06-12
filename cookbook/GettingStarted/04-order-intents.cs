@@ -1,4 +1,4 @@
-#:package Rhodium.Simulation@0.1.0
+#:package Rhodium.Simulation@0.5.0
 #:property TargetFramework=net10.0
 
 // This sample uses generated order helpers for submit, cancel, modify, and fill follow-up intents.
