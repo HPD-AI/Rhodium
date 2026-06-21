@@ -76,7 +76,7 @@ var blocked = result.SimulatorEvents
     .Single(static evt => evt.LifecycleKind == OptionLifecycleKind.Blocked);
 ```
 
-The cookbook blocked branch verifies `OptionLifecycleKind.Blocked`, reference source `None`, and one open position remaining in the final snapshot.
+The cookbook blocked thread verifies `OptionLifecycleKind.Blocked`, reference source `None`, and one open position remaining in the final snapshot.
 
 ## Assignment And Physical Delivery
 
